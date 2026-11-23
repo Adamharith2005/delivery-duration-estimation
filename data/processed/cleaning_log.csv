@@ -1,0 +1,12 @@
+step,rows_removed,rows_remaining,%_of_raw
+Raw data,0,197428,100.0
+Duplicate rows,0,197428,100.0
+Missing delivery or order timestamp (no target),7,197421,100.0
+Duration < 5 min,3,197418,99.99
+Duration > 180 min,138,197280,99.93
+Negative total_onshift_dashers,21,197259,99.91
+Negative total_busy_dashers,20,197239,99.9
+Negative total_outstanding_orders,40,197199,99.88
+Negative min_item_price,13,197186,99.88
+Subtotal <= 0,179,197007,99.79
+total_items <= 0,0,197007,99.79
